@@ -2,6 +2,11 @@
 ===========================
 这是一个基于node的博客，拥有博客基本的前后台功能，在static下有静态模版文件
 
+### 友情赞助
+如果本项目对你有较大的帮助，可以对我打赏，否则不需要，随便放个二维码，争取每天多喝一杯肥宅水！
+
+
+<img src="https://github.com/Tkwkrystal/wepy-mall/blob/master/screenshots/payme.jpg" width="400" height="400"/>
 ****
 ## 启动方式
 下载到本地后，cd到当前目录，安装package.json所需依赖包，然后启动入口文件
